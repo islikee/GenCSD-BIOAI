@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24160286/README.md)
+[MolGPTREADME.md](https://github.com/user-attachments/files/24160286/README.md)
 
 MolGPT Fine-tuning for SMILES Generation
 # MolGPT Fine-tuning for SMILES Generation
